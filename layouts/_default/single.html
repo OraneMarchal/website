@@ -1,0 +1,15 @@
+{{ template "common-header.html" . }}
+
+<article>
+{{ if ne .Section "" }}
+<nav>
+<ul>
+<li><a href="{{ .Section }}/"><span class="fa fa-arrow-left"></span> {{ if eq .Section "fr" }} Retour à la page d'accueil{{ else }}Back to Home Page{{ end }}</a></li>
+</ul>
+</nav>
+{{ end }}
+<section>
+{{ .Content }}</section>
+</article>
+
+{{ template "common-footer.html" . }}
