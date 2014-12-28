@@ -55,9 +55,8 @@ Intensive studies in Physics and Chemistry
 
 ## Community life
 
-###Protection Civile de Paris
-
-####Since Sept. 2014 
+### Protection Civile de Paris
+#### Since Sept. 2014 
 
 Certified first responder in teams of 2 to 4 (certification level PSE1 in July 2014) 
 
