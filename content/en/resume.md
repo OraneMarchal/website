@@ -9,7 +9,7 @@ title: Resume
 ## Work Experiences
 
 ### Valeo Visibility
-#### <span class="fa fa-calendar"></span> Déc. 2011 – Auj. <span class="fa fa-map-marker"></span> Bobigny, France
+#### Since <span class="fa fa-calendar"></span> Dec. 2011 <span class="fa fa-map-marker"></span> Bobigny, France
 
 Optical team member working on halogen, xenon and LED projectors for front lighting. Design, optical simulation, industrialization, production follow-up. Newcomers training.
 
@@ -54,6 +54,14 @@ Intensive studies in Physics and Chemistry
  * June 2004: Baccalauréat, Scientific, with high honors
 
 ## Community life
+
+###Protection Civile de Paris
+
+####Since Sept. 2014 
+
+Certified first responder in teams of 2 to 4 (certification level PSE1 in July 2014) 
+
+Work with the emergency services of the Paris Fire Brigade and the SAMU. First Aid Station during concerts, sporting events, local associative events, etc. Mobile assistance to Paris' homeless population
 
 ### IOGS's students' magazine: *Le Canarchiste*
 #### <span class="fa fa-calendar"></span> 2009 – 2010
@@ -128,6 +136,6 @@ Kung-fu, 12 years
 
 Member of the association Sup'Optique Alumni
 
-### First responder
+### First responder in the workplace
 
 Certified first responder in the workplace (France)

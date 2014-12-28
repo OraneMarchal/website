@@ -54,6 +54,13 @@ Filière Physique Chimie
 
 ## Activités associatives
 
+###Protection Civile de Paris
+####Sept. 2014 - Auj.
+
+Secouriste certifié niveau PSE1 (07/2014) et Sauveteur Humanitaire (10/2014). 
+
+Assistance aux Sapeurs Pompiers de Paris et au SAMU. Postes de secours en événementiel. Maraudes humanitaires
+
 ### Journal des étudiants de l'IOGS : Le Canarchiste
 #### <span class="fa fa-calendar"></span> 2009 — 2010
 
