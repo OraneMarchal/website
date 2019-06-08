@@ -41,7 +41,7 @@ Réduction locale de la réflectivité de la plieuse du module afin de limiter l
 “Module d'éclairage d'un faisceau lumineux pour projecteur de véhicule automobile”
 Utilisation d’une source et d’un collimateur additionnels dont le faisceau lumineux est dirigé sur la zone de coupure entre les faisceaux code et route d’un module bifonction afin d’améliorer la prestation d’homogénéité du faisceau global
 
-######## <span class="fa fa-calendar"></span> 2018 - Auj.
+#### <span class="fa fa-calendar"></span> 2018 - Auj.
 3 brevets non publiés
 
 ## Formation
