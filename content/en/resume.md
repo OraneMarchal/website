@@ -3,26 +3,27 @@ title: Resume
 ---
 
 # Orane Marchal
-22nd June 1986, Paris, driver's license<br>
-[e-mail](http://www.google.com/recaptcha/mailhide/d?k=016dT9F32kI81GY_8tWNEQnw==&c=5oUChofw9zY4ShBRnb91YdO5xfxF2p0q1zPcqttNxYA=)
+22nd June 1986, Paris, driver's license.
 
 ## Work Experiences
 
 ### Valeo Visibility
 #### Since <span class="fa fa-calendar"></span> Dec. 2011 <span class="fa fa-map-marker"></span> Bobigny, France
 
-Optical team member working on lighting module for front lighting.<br>
+Optical team member working on lighting module for front lighting.
+
 Development of halogen and xenon mono-function and bi-function modules using reflector technology and LED Matrix and Pixel projectors using light guides and direct imaging for European, Chinese and American markets.
 
 Requests for Quotations, design, optical simulation, mock-ups, measurements, industrialization, production tools tuning and production issues resolution.
 
-Creation of procedures, methodologies and design rules, specification and validation of internal design tools.<br>
+Creation of procedures, methodologies and design rules, specification and validation of internal design tools.
+
 Collaborators training.
 
 ### M2M-NDT / CEA-LIST
 #### <span class="fa fa-calendar"></span> 2010 – 2011 <span class="fa fa-map-marker"></span> Saclay, France
 
-Physics engineer in Non Destructive Testing using ultrasounds. Analysis of measurements in order to identify defects in materials.<br> Use of the CIVA software.
+Physics engineer in Non Destructive Testing using ultrasounds. Analysis of measurements in order to identify defects in materials. Use of the CIVA software.
 
 ### CEA-DAM - Apprenticeship
 #### <span class="fa fa-calendar"></span> 2008 – 2010 <span class="fa fa-map-marker"></span> Bruyères-le-Châtel, France
@@ -40,6 +41,8 @@ Local reflectivity reduction of the module folder to reduce locally the intensit
 #### <span class="fa fa-calendar"></span>2017
 “Lighting module of a light beam for a motor vehicle”.<br>
 Use of an additional light source and collimator creating a beam directed toward the cut-off between the low and high beams to improve homogeneity of the full beam.
+
+### Pending
 
 #### <span class="fa fa-calendar"></span>2018 - Today
 3 unpublished patents.
@@ -90,9 +93,8 @@ Organization of our annual gathering of hygiene products for our humanitarian ac
 
 ### Languages
 
-* Visual basic (beginner)
+* Visual Basic (beginner)
 * Google Apps Script (beginner)
-
 
 ### Softwares
 

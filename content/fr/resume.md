@@ -3,15 +3,15 @@ title: Curricilum Vitæ
 ---
 
 # Orane Marchal
-22 Juin 1986, Paris, Permis B<br>
-[e-mail](http://www.google.com/recaptcha/mailhide/d?k=016dT9F32kI81GY_8tWNEQnw==&c=5oUChofw9zY4ShBRnb91YdO5xfxF2p0q1zPcqttNxYA=)
+22 Juin 1986, Paris, Permis B.
 
 ## Expériences professionnelles
 
 ### Valeo Vision
 #### <span class="fa fa-calendar"></span> Déc. 2011 – Auj. <span class="fa fa-map-marker"></span> Bobigny
 
-Ingénieur en design optiques modules pour éclairage avant de véhicule légers.<br>
+Ingénieur en design optiques modules pour éclairage avant de véhicule légers.
+
 Développements de modules halogène et xénon bi-fonctions et mono-fonctions à technologie réflecteurs et de module Matrix et Pixel à LEDs utilisant des technologies guides de lumière et imagerie directe pour marchés européen, chinois et américain.
 
 Réponse à appels d’offre, design, simulation optique, maquettage, mesures, industrialisation, mise au point d'outillages et résolution d'incidents en production.
@@ -41,6 +41,8 @@ Réduction locale de la réflectivité de la plieuse du module afin de limiter l
 “Module d'éclairage d'un faisceau lumineux pour projecteur de véhicule automobile”.<br>
 Utilisation d’une source et d’un collimateur additionnels dont le faisceau lumineux est dirigé sur la zone de coupure entre les faisceaux code et route d’un module bi-fonction afin d’améliorer la prestation d’homogénéité du faisceau global.
 
+### En cours
+
 #### <span class="fa fa-calendar"></span> 2018 - Auj.
 3 brevets non publiés.
 
@@ -68,9 +70,9 @@ Filière Physique Chimie
 ### Protection Civile de Paris<br>*Directrice local des actions solidaires et sociale*
 #### <span class="fa fa-calendar"></span>Sept. 2014 - Auj.
 
-Chef d'équipe secouriste niveau PSE2 (05/2015) et Chef d'Équipe Sauveteur Humanitaire.<br>
+Chef d'équipe secouriste niveau PSE2 (05/2015) et Chef d'Équipe Sauveteur Humanitaire.
 
-Gardes au profit des Pompiers de Paris et du SAMU. Postes de secours événementiels. Maraudes humanitaires et soutien aux populations sur évènements de grande ampleur (feu, accidents et grèves ferroviaires, attentat…).<br>
+Gardes au profit des Pompiers de Paris et du SAMU. Postes de secours événementiels. Maraudes humanitaires et soutien aux populations sur évènements de grande ampleur (feu, accidents et grèves ferroviaires, attentat…).
 
 Organisation de notre collecte annuelle de produits d’hygiène pour nos activités humanitaires.
 
