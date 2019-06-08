@@ -5,6 +5,9 @@
 <nav>
 <ul>
 <li><a href="{{ .Section }}/"><span class="fa fa-arrow-left"></span> {{ if eq .Section "fr" }} Retour à la page d'accueil{{ else }}Back to Home Page{{ end }}</a></li>
+{{ if eq .File.TranslationBaseName "resume" }}
+<li class="resume"><a download="" href="resume-oranemarchal-{{ .Lang }}.pdf" target="_blank"><span class="fa fa-download"></span> {{ if eq .Section "fr" }} Télécharger{{ else }}Download{{ end }}</a></li>
+{{ end }}
 </ul>
 </nav>
 {{ end }}
