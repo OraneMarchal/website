@@ -99,7 +99,6 @@ Organization of our annual gathering of hygiene products for our humanitarian ac
 * CATIA V5
 * Zemax (training on going)
 * ASAP (optical simulation)
-
 * Microsoft Office
 * Google Docs
 * MS Project

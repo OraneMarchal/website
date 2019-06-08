@@ -94,7 +94,6 @@ Organisation de notre collecte annuelle de produits d’hygiène pour nos activi
  * CATIA V5
  * Zemax (niveau intermédiaire, formation en cours)
  * ASAP (simulation optique)
-
  * Suite Office
  * Google Docs
  * MS Project
