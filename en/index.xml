@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ens on Orane Marchal</title>
+    <link>http://dev.oranemarchal.info/en/</link>
+    <description>Recent content in Ens on Orane Marchal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="http://dev.oranemarchal.info/en/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Information</title>
+      <link>http://dev.oranemarchal.info/en/info/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://dev.oranemarchal.info/en/info/</guid>
+      <description>Information Find me  On LinkedIn (en): oranemarchal  Contact  Send me an email: contact Contact me via Twitter: @PetiteRanou  About this website This website has been created using Hugo by Vincent Batoufflet.</description>
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>http://dev.oranemarchal.info/en/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://dev.oranemarchal.info/en/resume/</guid>
+      <description>Orane Marchal 22nd June 1986, Paris, driver&amp;rsquo;s license
+e-mail
+Work Experiences Valeo Visibility Since  Dec. 2011  Bobigny, France Optical team member working on halogen, xenon and LED projectors for front lighting. Design, optical simulation, industrialization, production follow-up. Newcomers training.
+Ajilon Engineering  2011  Boulogne-Billancourt, France Research engineer. Participation in the establishment of the offers submitted in response to call for tenders and proposed project offers, industrialization project monitoring at Sagem DS.</description>
+    </item>
+    
+  </channel>
+</rss>

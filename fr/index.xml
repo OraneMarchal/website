@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Frs on Orane Marchal</title>
+    <link>http://dev.oranemarchal.info/fr/</link>
+    <description>Recent content in Frs on Orane Marchal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="http://dev.oranemarchal.info/fr/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Curricilum Vitæ</title>
+      <link>http://dev.oranemarchal.info/fr/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://dev.oranemarchal.info/fr/resume/</guid>
+      <description>Orane Marchal 22 Juin 1986, Paris, Permis B
+e-mail
+Expériences professionnelles Valeo Vision  Déc. 2011 – Auj.  Bobigny Ingénieur en optiques modules halogène, xénon et LED pour éclairage avant. Design, simulation optique, industrialisation, suivi de production. Formation de collaborateurs.
+Ajilon Engineering  2011  Boulogne-Billancourt Ingénieur d&amp;rsquo;études. Participation à la constitution de dossiers de réponses à appels d&amp;rsquo;offres et de propositions de projets, mission de suivi de projet d&amp;rsquo;industrialisation chez Sagem DS.</description>
+    </item>
+    
+    <item>
+      <title>Informations</title>
+      <link>http://dev.oranemarchal.info/fr/info/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://dev.oranemarchal.info/fr/info/</guid>
+      <description>Informations Où me trouver  Sur LinkedIn (en) : oranemarchal  Contact  M&amp;rsquo;envoyer un mail : contact Me contacter par Twitter : @PetiteRanou  Informations sur ce site Ce site a été créé avec Hugo par Vincent Batoufflet.</description>
+    </item>
+    
+  </channel>
+</rss>

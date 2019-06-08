@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://dev.oranemarchal.info/fr/</loc>
+  </url>
+  
+  <url>
+    <loc>http://dev.oranemarchal.info/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dev.oranemarchal.info/fr/resume/</loc>
+  </url>
+  
+  <url>
+    <loc>http://dev.oranemarchal.info/en/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dev.oranemarchal.info/fr/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dev.oranemarchal.info/en/</loc>
+  </url>
+  
+  <url>
+    <loc>http://dev.oranemarchal.info/en/info/</loc>
+  </url>
+  
+  <url>
+    <loc>http://dev.oranemarchal.info/fr/info/</loc>
+  </url>
+  
+  <url>
+    <loc>http://dev.oranemarchal.info/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dev.oranemarchal.info/en/resume/</loc>
+  </url>
+  
+  <url>
+    <loc>http://dev.oranemarchal.info/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
