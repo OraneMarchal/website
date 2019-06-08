@@ -11,28 +11,38 @@ title: Resume
 ### Valeo Visibility
 #### Since <span class="fa fa-calendar"></span> Dec. 2011 <span class="fa fa-map-marker"></span> Bobigny, France
 
-Optical team member working on halogen, xenon and LED projectors for front lighting. Design, optical simulation, industrialization, production follow-up. Newcomers training.
+Optical team member working on lighting module for front lighting 
+Development of halogen and xenon monofunction and bifonction modules using reflector technology and LED Matrix and Pixel projectors using light guides and direct imaging for European, Chinese and American markets
 
-### Ajilon Engineering
-#### <span class="fa fa-calendar"></span> 2011 <span class="fa fa-map-marker"></span> Boulogne-Billancourt, France
+Requests for Quotations, design, optical simulation, mock-ups, measurements, industrialization, production tools tuning and production issues resolution
 
-Research engineer. Participation in the establishment of the offers submitted in response to call for tenders and proposed project offers, industrialization project monitoring at Sagem DS.
-
+Creation of procedures, methodologies and design rules, specification and validation of internal design tools
+Collaborators training
 
 ### M2M-NDT / CEA-LIST
 #### <span class="fa fa-calendar"></span> 2010 – 2011 <span class="fa fa-map-marker"></span> Saclay, France
 
-Physics engineer in Non Destructive Testing using ultrasounds. Use of the CIVA software.
+Physics engineer in Non Destructive Testing using ultrasounds. Analysis of measurements in order to identify defects in materials. Use of the CIVA software
 
 ### CEA-DAM - Apprenticeship
 #### <span class="fa fa-calendar"></span> 2008 – 2010 <span class="fa fa-map-marker"></span> Bruyères-le-Châtel, France
 
 Design, realization and optimization of an optical diagnostic in order to characterize an air plasma.
 
-### Observatoire de Paris – Internship
-#### <span class="fa fa-calendar"></span> July 2008 <span class="fa fa-map-marker"></span> Paris, France
+## Patents
 
-Design and realization of an extended cavity laser.
+### FR3064340
+#### <span class="fa fa-calendar"></span>2017
+“Module optique pour véhicule automobile, incluant un élément réflecteur dont une zone spécifique permet de réduire localement l'intensité lumineuse” 
+Local reflectivity reduction of the module folder to reduce locally the intensity of the beam of a specific area of the beam in order to make the beam compliant with another regulation and therefore reduce costs (reflectors reference number limitation)
+
+### EP3357752A1
+#### <span class="fa fa-calendar"></span>2017
+“Lighting module of a light beam for a motor vehicle”
+Utilise of an additional light source and collimator creating a beam directed toward the cut-off between the low and high beams to improve homogeneity of the full beam
+
+#### <span class="fa fa-calendar"></span>2018 - Today
+3 non publicated patents
 
 ## Education
 
@@ -55,81 +65,51 @@ Intensive studies in Physics and Chemistry
 
 ## Community life
 
-### Protection Civile de Paris
-#### Since Sept. 2014 
+### Protection Civile de Paris<br>*Local director of humanitarian activities*
+#### <span class="fa fa-calendar"></span>Since Sept. 2014 
 
-Certified first responder in teams of 2 to 4 (certification level PSE1 in July 2014) 
+Team leader of first responders (certification PSE2 in May 2015)
+Duty calls for the emergency services of the Paris Fire Brigade and the SAMU, First Aid Stations
+Mobile assistance to Paris' homeless population and assistance to populations during fires, trainwrecks, major trains delays, mass casualties
+Organization of our annual gathering of hygiene products for our humanitarian actions
 
-Work with the emergency services of the Paris Fire Brigade and the SAMU. First Aid Station during concerts, sporting events, local associative events, etc. Mobile assistance to Paris' homeless population
 
-### IOGS's students' magazine: *Le Canarchiste*
-#### <span class="fa fa-calendar"></span> 2009 – 2010
-
-Chief editor:
-
-* Drawing up of the articles featured in each issue
-* Management of the schedule and of the writers' team
-* Making up with InDesign
-* Impression control
-
-### Student Office of the IOGS
-#### <span class="fa fa-calendar"></span> 2007-2008
-
-Vice-President and person in charge of public relations
-
-Negotiation and drawing up of contracts with companies, institution and monitoring of partnerships with the IOGS’s cohort patrons (Alpha Route des Lasers, Altran, EADS Sodern)
 
 ## Languages
 
 * French: mother tongue
 * English: fluent
 * German: elementary
-* Sign language: notions
 
 ## Computer skills
 
 ### Operating systems
 
-* Apple Mac OS : Tiger, Leopard, Snow Leopard, Lion
-* Misosoft Windows : Windows 98, 2000, XP, Seven
+* Apple macOS
+* Misosoft Windows
 
 ### Languages
 
-* C
-* Visual basic (notions)
+* Visual basic (beginner)
+* Google Apps Script (beginner)
+
 
 ### Softwares
 
 * CATIA V5
+* Zemax (training on going)
 * ASAP (optical simulation)
-* Matlab
-* LabVIEW
+
 * Microsoft Office
+* Google Docs
 * MS Project
-* Photoshop
-* InDesign
 
 ## Special interests
 
-### Music
-
-* Violin, 12 years, soli and in orchestras from 3 to 40 musicians
-* Music theory, musical analysis, music history
-* 2004: Second prize of violin, first prize of music theory
-
 ### Sport
 
-Kung-fu, 12 years
-
-* Skills in different fighting styles, free style fighting, history and philosophy of kung-fu
-* 2004 : Black sash rank
-
-### Theatre
-
-3 years, in the Institut d’Optique’s company
-
-* Performance of plays in different French “Grandes Écoles”
-* 2009: Participation in the Arrache-Coeur challenge organized by the “Grande École” Centrale Paris
+* Krav Maga, since 2016, orange belt
+* Kung-fu (2004: black sash rank)
 
 ### IOGS Alumni
 

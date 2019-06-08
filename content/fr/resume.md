@@ -11,27 +11,38 @@ title: Curricilum Vitæ
 ### Valeo Vision
 #### <span class="fa fa-calendar"></span> Déc. 2011 – Auj. <span class="fa fa-map-marker"></span> Bobigny
 
-Ingénieur en optiques modules halogène, xénon et LED pour éclairage avant. Design, simulation optique, industrialisation, suivi de production. Formation de collaborateurs.
+Ingénieur en design optiques modules pour éclairage avant de véhicule légers
+Développements de modules halogène et xénon bifonctions et monofonctions à technologie réflecteurs et de module Matrix et Pixel à LEDs utilisant des technologies guides de lumière et imagerie directe pour marchés européen, chinois et américain 
 
-### Ajilon Engineering
-#### <span class="fa fa-calendar"></span> 2011 <span class="fa fa-map-marker"></span> Boulogne-Billancourt
+Réponse à appels d’offre, design, simulation optique, maquettage, mesures, industrialisation, mise au point d'outillages et résolution d'incidents en production
 
-Ingénieur d'études. Participation à la constitution de dossiers de réponses à appels d'offres et de propositions de projets, mission de suivi de projet d'industrialisation chez Sagem DS.
+Rédaction de procédures, de méthodologies et de règles de conception, spécification et validation d'outils internes
+Formation de collaborateurs
 
 ### M2M-NDT / CEA-LIST
 #### <span class="fa fa-calendar"></span> 2010 — 2011 <span class="fa fa-map-marker"></span> Saclay
 
-Ingénieur physicien en Contrôle Non Destructif par ultrasons.
+Ingénieur physicien en Contrôle Non Destructif par ultrasons. Analyse de relevé de mesures pour identification des défauts de matériaux. Utilisation du logiciel CIVA
 
 ### CEA-DAM - Apprentissage
 #### <span class="fa fa-calendar"></span> 2008 — 2010 <span class="fa fa-map-marker"></span> Bruyères-le-Châtel
 
-Conception et réalisation d’un diagnostic optique pour la caractérisation de plasmas.
+Conception et réalisation d’un diagnostic optique pour la caractérisation de plasma
 
-### Observatoire de Paris – Stage
-#### <span class="fa fa-calendar"></span> Juillet 2008 <span class="fa fa-map-marker"></span> Paris
+## Brevets
 
-Conception et réalisation d’un laser en cavité étendue.
+### FR3064340
+#### <span class="fa fa-calendar"></span> 2017
+“Module optique pour véhicule automobile, incluant un élément réflecteur dont une zone spécifique permet de réduire localement l'intensité lumineuse” 
+Réduction locale de la réflectivité de la plieuse du module afin de limiter l’intensité en une zone spécifique du faisceau et le rendre réglementaire avec une réglementation d’un autre marché dans une optique de réduction de coût (limitation due références de réflecteurs)
+
+### EP3357752A1
+#### <span class="fa fa-calendar"></span> 2017
+“Module d'éclairage d'un faisceau lumineux pour projecteur de véhicule automobile”
+Utilisation d’une source et d’un collimateur additionnels dont le faisceau lumineux est dirigé sur la zone de coupure entre les faisceaux code et route d’un module bifonction afin d’améliorer la prestation d’homogénéité du faisceau global
+
+######## <span class="fa fa-calendar"></span> 2018 - Auj.
+3 brevets non publiés
 
 ## Formation
 
@@ -54,78 +65,46 @@ Filière Physique Chimie
 
 ## Activités associatives
 
-### Protection Civile de Paris
-#### Sept. 2014 - Auj.
+### Protection Civile de Paris<br>*Directrice local des actions solidaires et sociale*
+#### <span class="fa fa-calendar"></span>Sept. 2014 - Auj.
 
-Secouriste certifié niveau PSE1 (07/2014) et Sauveteur Humanitaire (10/2014). 
-
-Assistance aux Sapeurs Pompiers de Paris et au SAMU. Postes de secours en événementiel. Maraudes humanitaires
-
-### Journal des étudiants de l'IOGS : Le Canarchiste
-#### <span class="fa fa-calendar"></span> 2009 — 2010
-
-Co-rédacteur en chef :
-
- * Gestion du contenu et du planning
- * Rédaction et collecte d'articles
- * Mise en page sous InDesign
- * Supervision du tirage
-
-### Bureau Des Élèves (BDE) de l’IOGS
-#### <span class="fa fa-calendar"></span> 2007 — 2008
-
-Vice-Présidente et Responsable des Relations Extérieures du BDE
+Chef d'équipe secouriste niveau PSE2 (05/2015) et Chef d'Équipe Sauveteur Humanitaire  Gardes au profit des Pompiers de Paris et du SAMU. Postes de secours événementiels. Maraudes humanitaires et soutien aux populations sur évènements de grande ampleur (feu, accidents et grèves ferroviaires, attentat…)
+Organisation de notre collecte annuelle de produits d’hygiène pour nos activité humanitaires
 
 ## Langues
 
  * Anglais : courant
  * Allemand : scolaire
- * Langue des Signes : débutant
 
 ## Compétences informatiques
 
 ### Systèmes d'exploitation
 
- * Apple Mac OS : Tiger, Leopard, Snow Leopard, Lion
- * Microsoft Windows : Windows 98, 2000, XP, Seven
+ * Apple macOS
+ * Microsoft Windows
 
 ### Langages
 
- * C
- * Visual basic (notions)
+ * Visual basic (débutant)
+ * Google Apps Script (débutant)
+
 
 ### Logiciels
 
  * CATIA V5
+ * Zemax (niveau intermédiaire, formation en cours)
  * ASAP (simulation optique)
- * Matlab
- * LabVIEW
+
  * Suite Office
+ * Google Docs
  * MS Project
- * Photoshop
- * InDesign
 
-## Passions et centres d'intérêt
-
-### Musique
-
- * Violon :  12 ans, seule et en formations de 3 à 40 musiciens
- * Théorie et analyse musicale, histoire de la musique
- * 2004 : Second Prix de violon, Premier Prix de solfège
+## Autres centres d'intérêt
 
 ### Sport
 
-Kung-fu, 12 ans
-
- * Pratique de différents styles, combat, histoire du Kung-Fu
- * 2004 : Grade de ceinture noire
-
-### Théâtre
-
-3 ans, troupe de l'IOGS
-
- * Représentations de pièces dans plusieurs autres Grandes Ecoles du réseau ParisTech
- * 2009 : Participation au Festival de l’Arrache-Coeur, organisé par Centrale Paris
+* Krav Maga, depuis 2016, ceinture orange
+* Kung-fu (2004 : grade de ceinture noire)
 
 ### Association IOGS
 
