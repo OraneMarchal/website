@@ -11,18 +11,18 @@ title: Resume
 ### Valeo Visibility
 #### Since <span class="fa fa-calendar"></span> Dec. 2011 <span class="fa fa-map-marker"></span> Bobigny, France
 
-Optical team member working on lighting module for front lighting 
-Development of halogen and xenon monofunction and bifonction modules using reflector technology and LED Matrix and Pixel projectors using light guides and direct imaging for European, Chinese and American markets
+Optical team member working on lighting module for front lighting.<br>
+Development of halogen and xenon mono-function and bi-function modules using reflector technology and LED Matrix and Pixel projectors using light guides and direct imaging for European, Chinese and American markets.
 
-Requests for Quotations, design, optical simulation, mock-ups, measurements, industrialization, production tools tuning and production issues resolution
+Requests for Quotations, design, optical simulation, mock-ups, measurements, industrialization, production tools tuning and production issues resolution.
 
-Creation of procedures, methodologies and design rules, specification and validation of internal design tools
-Collaborators training
+Creation of procedures, methodologies and design rules, specification and validation of internal design tools.<br>
+Collaborators training.
 
 ### M2M-NDT / CEA-LIST
 #### <span class="fa fa-calendar"></span> 2010 – 2011 <span class="fa fa-map-marker"></span> Saclay, France
 
-Physics engineer in Non Destructive Testing using ultrasounds. Analysis of measurements in order to identify defects in materials. Use of the CIVA software
+Physics engineer in Non Destructive Testing using ultrasounds. Analysis of measurements in order to identify defects in materials.<br> Use of the CIVA software.
 
 ### CEA-DAM - Apprenticeship
 #### <span class="fa fa-calendar"></span> 2008 – 2010 <span class="fa fa-map-marker"></span> Bruyères-le-Châtel, France
@@ -33,16 +33,16 @@ Design, realization and optimization of an optical diagnostic in order to charac
 
 ### FR3064340
 #### <span class="fa fa-calendar"></span>2017
-“Module optique pour véhicule automobile, incluant un élément réflecteur dont une zone spécifique permet de réduire localement l'intensité lumineuse” 
-Local reflectivity reduction of the module folder to reduce locally the intensity of the beam of a specific area of the beam in order to make the beam compliant with another regulation and therefore reduce costs (reflectors reference number limitation)
+“Module optique pour véhicule automobile, incluant un élément réflecteur dont une zone spécifique permet de réduire localement l'intensité lumineuse”.<br>
+Local reflectivity reduction of the module folder to reduce locally the intensity of the beam of a specific area of the beam in order to make the beam compliant with another regulation and therefore reduce costs (reflectors reference number limitation).
 
 ### EP3357752A1
 #### <span class="fa fa-calendar"></span>2017
-“Lighting module of a light beam for a motor vehicle”
-Utilise of an additional light source and collimator creating a beam directed toward the cut-off between the low and high beams to improve homogeneity of the full beam
+“Lighting module of a light beam for a motor vehicle”.<br>
+Use of an additional light source and collimator creating a beam directed toward the cut-off between the low and high beams to improve homogeneity of the full beam.
 
 #### <span class="fa fa-calendar"></span>2018 - Today
-3 non publicated patents
+3 unpublished patents.
 
 ## Education
 
@@ -68,12 +68,12 @@ Intensive studies in Physics and Chemistry
 ### Protection Civile de Paris<br>*Local director of humanitarian activities*
 #### <span class="fa fa-calendar"></span>Since Sept. 2014 
 
-Team leader of first responders (certification PSE2 in May 2015)
-Duty calls for the emergency services of the Paris Fire Brigade and the SAMU, First Aid Stations
-Mobile assistance to Paris' homeless population and assistance to populations during fires, trainwrecks, major trains delays, mass casualties
-Organization of our annual gathering of hygiene products for our humanitarian actions
+Team leader of first responders (certification PSE2 in May 2015).<br>
 
+Duty calls for the emergency services of the Paris Fire Brigade and the SAMU, First Aid Stations.<br>
+Mobile assistance to Paris' homeless population and assistance to populations during fires, trainwrecks, major trains delays, mass casualties.<br>
 
+Organization of our annual gathering of hygiene products for our humanitarian actions.
 
 ## Languages
 
@@ -86,7 +86,7 @@ Organization of our annual gathering of hygiene products for our humanitarian ac
 ### Operating systems
 
 * Apple macOS
-* Misosoft Windows
+* Microsoft Windows
 
 ### Languages
 
